@@ -1,7 +1,7 @@
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Nave [Nombre del Grupo]**
+**Plano comunicativo – Nave ( Celula Matrix)**
 
 ---
 
@@ -17,10 +17,10 @@
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
-|        |               |                   |
-|        |               |                   |
-|        |               |                   |
+|Gina    |               |                   |
+|Luis    |     Capitan   |                   |
+|Emily   |               |                   |
+|Briceño |               |                   |
 
 ---
 
@@ -60,22 +60,7 @@
 | ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
 | 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
 
----
 
-## 🌟 Sugerencia creativa
-
-💡 Piensen su circuito como si fuera:
-- 🔌 Un sistema eléctrico  
-- 🛰️ Una red de datos  
-- 🚀 Una nave espacial en comunicación constante  
-
----
-
-## 🧩 Entregable
-
-- ✔️ Documento en Notion o PDF  
-- ✔️ Diseño visual del circuito  
-- ✔️ Reflexión grupal  
 
 ---
 
