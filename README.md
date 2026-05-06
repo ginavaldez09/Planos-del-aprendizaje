@@ -26,7 +26,7 @@
 
 ### 📡 Modelo Lineal
 - **Representación en clases virtuales:**
-- El modelo lineal en clases virtuales se refiere a una forma de enseñar donde el proceso sigue  una secuencia directa y ordenada, el docente transmite la información y el estudiante la recibe.
+- El modelo lineal en clases virtuales se refiere a una forma de enseñar donde el proceso sigue una secuencia directa y ordenada, el docente transmite la información y el estudiante la recibe.
 - **Ejemplo en nuestro contexto:**
 - Una clase por Zoom donde el profesor comparte diapositivas, donde explica el tema por 40 minutos y al final hace preguntas o asigna una tarea.
 
@@ -49,8 +49,9 @@
 - ❓ ¿Qué roles asumimos como emisores y receptores?
 - En la comunicación, los roles son muy dinámicos, ya que el emisor es quien produce el mensaje, lo codifica y lo envía, mientras que el receptor es queien recibe, interpreta y decodifica ese mensaje, sin embargo, puedo decir que los roles pueden cambiar ya que un receptor puede convertirse en emisor, generando un nuevo ciclo de comunicación. 
 - 📱 ¿Qué medios utilizamos?
-- Considero que el medio que utilizamos es el modelo lineal ya que nos 
-- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
+- Considero que el medio que utilizamos es el modelo lineal ya que nos conectamos de manera virtual donde se presenta una secuencia directa entre el profesor y el estudiante por medio de diapositivas donde explicara el tema y asigna tareas.
+- ⚠️ ¿Qué obstáculos interfieren en la comunicación?
+- Los obstáculos en la comunicación o barreras son interferencias que deforman o impiden que el mensaje llegue correctamente, puedo mencionar que unos de los obstaculos son ruidos, diferencias de idioma, el estado de emocional, los entornos laborales, no prestar atención, entre otros..
 
 ---
 
