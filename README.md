@@ -46,8 +46,10 @@
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores?  
-- 📱 ¿Qué medios utilizamos?  
+- ❓ ¿Qué roles asumimos como emisores y receptores?
+- En la comunicación, los roles son muy dinámicos, ya que el emisor es quien produce el mensaje, lo codifica y lo envía, mientras que el receptor es queien recibe, interpreta y decodifica ese mensaje, sin embargo, puedo decir que los roles pueden cambiar ya que un receptor puede convertirse en emisor, generando un nuevo ciclo de comunicación. 
+- 📱 ¿Qué medios utilizamos?
+- Considero que el medio que utilizamos es el modelo lineal ya que nos 
 - ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
 
 ---
