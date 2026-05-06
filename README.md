@@ -16,9 +16,9 @@
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
 |Gina    |               |gina.valdez@oteima.ac.pa  |
-|Luis    |               |                   |
+|Luis    |               |luis.diaz@oteima.ac.pa                   |
 |Emily   |               | Emily.gill@oteima.ac.pa     |
-|Briceño |               |                   |
+|Briceño |               |jose.briceno@oteima.ac.pa                   |
 
 ---
 
