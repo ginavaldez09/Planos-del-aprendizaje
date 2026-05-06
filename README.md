@@ -61,7 +61,7 @@
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
+| 🔊 **Emisor**       | Es la entidad que genera, codifica y transmite un mensaje, señal o información hacia un receptor dentro de un proceso comunicativo.| Puede ser una persona, grupo, empresa o máquina | Identidad visual de Marca, Fotografía y Retrato, Avatar o personaje de Marca.                      |
 | 👂 **Receptor**     |            |                                                          |                      |
 | 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
 | ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
