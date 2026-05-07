@@ -65,7 +65,7 @@
 | 👂 **Receptor**     | Cualquier entidad, persona, sistema o dispositivo que capta, interpreta o recibe un mensaje, señal o estímulo.| un lector de un periódico, el espectador que ve noticias, o un alumno escuchando a su profesor                                                         |es el individuo, grupo o audiencia objetivo que recibe e interpreta mensajes a través de señales visuales                      |
 | 🌐 **Canal**        |Medio físico o soporte (aire, teléfono, papel, internet) a través del cual viaja el mensaje desde el emisor hasta el receptor. | Ej: Google Meet, Moodle, WhatsApp, correo                | Medio físico o digital (como pantallas, papel, o señales) que transporta un mensaje visual del emisor al receptor.                     |
 | ⚠️ **Ruido**        | Cualquier interferencia, barrera u obstáculo que distorsiona, altera o impide que el mensaje llegue claramente del emisor al receptor.           | Ej: desconexión, distracción, mal diseño de contenido    | Representación gráfica del ruido fisico, en el mensaje y interferencia auditiva.               |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔁 **Retroalimentación** |Respuesta del receptor al emisor que confirma la comprensión, interpretación o reacción al mensaje, permitiendo ajustar la comunicación.      | Cómo se completa el circuito                             | Directa/verbal, No verbal/ Gestual y visuales en entorno virtuales                   |
 
 
 
