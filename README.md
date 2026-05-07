@@ -62,7 +62,7 @@
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
 | 🔊 **Emisor**       | Es la entidad que genera, codifica y transmite un mensaje, señal o información hacia un receptor dentro de un proceso comunicativo.| Puede ser una persona, grupo, empresa o máquina | Identidad visual de Marca, Fotografía y Retrato, Avatar o personaje de Marca.                      |
-| 👂 **Receptor**     |            |                                                          |                      |
+| 👂 **Receptor**     | cualquier entidad, persona, sistema o dispositivo que capta, interpreta o recibe un mensaje, señal o estímulo.| un lector de un periódico, el espectador que ve noticias, o un alumno escuchando a su profesor                                                         |es el individuo, grupo o audiencia objetivo que recibe e interpreta mensajes a través de señales visuales                      |
 | 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
 | ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
 | 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
