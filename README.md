@@ -64,7 +64,7 @@
 | 🔊 **Emisor**       | Es la entidad que genera, codifica y transmite un mensaje, señal o información hacia un receptor dentro de un proceso comunicativo.| Puede ser una persona, grupo, empresa o máquina | Identidad visual de Marca, Fotografía y Retrato, Avatar o personaje de Marca.                      |
 | 👂 **Receptor**     | Cualquier entidad, persona, sistema o dispositivo que capta, interpreta o recibe un mensaje, señal o estímulo.| un lector de un periódico, el espectador que ve noticias, o un alumno escuchando a su profesor                                                         |es el individuo, grupo o audiencia objetivo que recibe e interpreta mensajes a través de señales visuales                      |
 | 🌐 **Canal**        |Medio físico o soporte (aire, teléfono, papel, internet) a través del cual viaja el mensaje desde el emisor hasta el receptor. | Ej: Google Meet, Moodle, WhatsApp, correo                | Medio físico o digital (como pantallas, papel, o señales) que transporta un mensaje visual del emisor al receptor.                     |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
+| ⚠️ **Ruido**        | Cualquier interferencia, barrera u obstáculo que distorsiona, altera o impide que el mensaje llegue claramente del emisor al receptor.           | Ej: desconexión, distracción, mal diseño de contenido    | Representación gráfica del ruido fisico, en el mensaje y interferencia auditiva.               |
 | 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
 
 
